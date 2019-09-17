@@ -21,6 +21,15 @@ Telah di test pada OVO versi 2.8.0 | 27 Maret 2019 | PHP 7.2.2
 | `generateTrxId`  | OK  |
 | `transferOvo`  | OK  |
 
+
+ 
+**Do you like this project? Support it by donating**
+
+**mgp25**
+
+- ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ATYY8H9MC96E)
+- ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: 1NDPcZrkQiU6g9KjYSubsMUeXmpNeyYGc5
+
 ## PORTS
 Jika PHP tidak nyaman bagimu bisa mencoba bahasa pemrograman lain, atau jika ingin menulis dibahasa tersebut silahkan ajukan Issue baru nanti akan saya list disini
 
@@ -150,4 +159,5 @@ Contoh: `$ovo->unreadHistory()->getTotal()`
 
 
 ## Contribute
+Repo ini melanjutkan dari repo [lintangtimur](https://github.com/lintangtimur/ovoid) silahkan kunjungi repo tersebut untuk melihat dasar code.
 Project ini saya membuatnya kasaran sekali, jadi ketika ada proses request ke endpoint ovo dan terjadi kegagalan atau parameter tidak sesuai, script masih belum bisa mendapatkan response error dari ovo nya, harus manual `dd` dari source code(dari file Response). Jadi silahkan berkontribusi, baik dari dokumentasi program atau membenahi script ini :)
