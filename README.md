@@ -27,7 +27,7 @@ Telah di test pada OVO versi 2.8.0 | 27 Maret 2019 | PHP 7.2.2
 
 **mgp25**
 
-- ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ATYY8H9MC96E)
+- ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](paypal.me/mrliputo)
 - ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: 1NDPcZrkQiU6g9KjYSubsMUeXmpNeyYGc5
 
 ## PORTS
