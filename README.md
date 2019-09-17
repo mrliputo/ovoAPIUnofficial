@@ -25,7 +25,7 @@ Telah di test pada OVO versi 2.8.0 | 27 Maret 2019 | PHP 7.2.2
  
 **Do you like this project? Support it by donating**
 
-**mgp25**
+**Mrliputo**
 
 - ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](paypal.me/mrliputo)
 - ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: 1NDPcZrkQiU6g9KjYSubsMUeXmpNeyYGc5
